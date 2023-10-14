@@ -390,7 +390,7 @@ h6 {
   font-size: 21px;
 }
 
-#hero h3 {
+#hero .subtitle {
   color: #fff;
   margin: 10px 0 0 0;
   font-size: 15px;
