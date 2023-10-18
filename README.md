@@ -1,2 +1,2 @@
-# Nexus
-nexus website
+# Netxus
+netxus website
