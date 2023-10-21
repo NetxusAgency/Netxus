@@ -2173,4 +2173,7 @@ section {
 	#hero h1 {
     font-size: 26px;
 }
+	#header .logo img{
+	max-height:34px;	
+	}
 }
